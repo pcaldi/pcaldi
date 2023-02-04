@@ -4,11 +4,11 @@
 
 
 - 🔭 I’m currently working on loading...
-- 🌱 I’m currently learning HTML, CSS, JAVASCRIPT, SQL, REACT, REACT-NATIVE, NODEJS...
+- 🌱 I’m currently learning HTML, CSS, JAVASCRIPT, SQL, REACTJS, REACT-NATIVE, NODEJS...
 - 📲 Contact:
-- <a href="mailto:pcaldi@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+- [![Linkedin Badge](https://img.shields.io/badge/-Paulo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pcaldi/)](https://www.linkedin.com/in/pcaldi/)
+- [![Gmail Badge](https://img.shields.io/badge/-pcaldi@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pcaldi@gmail.com)](mailto:pcaldi@gmail.com)
 
-- <a href="https://www.linkedin.com/in/pcaldi/"><img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 
 
 
